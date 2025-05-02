@@ -1,4 +1,4 @@
-# 🌐 Social Links Profile - Frontend Mentor Challenge
+# 🌐 QR Componenet - Frontend Mentor Challenge
 
 🎯 [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 
@@ -7,12 +7,10 @@
 ## 📄 Overview / Visión general
 
 ### 🇬🇧 The Challenge
-Users should be able to:
-- See hover and focus states for all interactive elements on the page
+The first challenge on Frontend Mentor, where we make a QR component for desktop and mobile
 
 ### 🇪🇸 El Reto
-Los usuarios deben poder:
-- Ver estados de *hover* y *focus* en todos los elementos interactivos de la página
+El primer reto en Frontend Mentor, donde crearemos un componente QR para escritorio y moviles
 
 ---
 
@@ -26,8 +24,8 @@ Los usuarios deben poder:
 
 ## 🔗 Links / Enlaces
 
-- 🛠️ **Solution / Solución:** [Add your solution URL](https://your-solution-url.com)  
-- 🌍 **Live site / Sitio en vivo:** [Add your live site URL](https://your-live-site-url.com)
+- 🛠️ **Solution / Solución:** [Add your solution URL](https://www.frontendmentor.io/solutions/qr-component-made-with-html-and-tailwindcss-hx_hwq8-IQ)  
+- 🌍 **Live site / Sitio en vivo:** [Add your live site URL](https://jrramoncp.github.io/qr-component-tailwind/)
 
 ---
 
