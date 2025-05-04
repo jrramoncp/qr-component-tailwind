@@ -1,4 +1,4 @@
-# 🌐 QR Componenet - Frontend Mentor Challenge
+# 🌐 QR Component - Frontend Mentor Challenge
 
 🎯 [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 
